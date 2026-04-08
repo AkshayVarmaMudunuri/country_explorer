@@ -1,0 +1,3 @@
+# Install this with:  pip install -r requirements.txt
+# This project only needs one library — that's it!
+requests==2.31.0
